@@ -1,0 +1,62 @@
+@media (max-width: 670px){
+    /*ヘッダー*/
+    .header-logo {
+      margin-left: -16px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }  
+    .header-logo img {
+      width: 35%;
+    }  
+    /*トップ*/
+    .top h1 {
+      font-size: 1.3rem;
+      margin: 120px 0 40px 0;
+    }
+    .dounuts img {
+      margin-bottom: 56px;
+      width: 90%;
+    }  
+    /*作品概要*/
+    .top-description {
+      width: 90%;
+    }
+    .top-description h2,.details h2 {
+      font-size: 1.1rem;
+    }
+    .top-description h3 {
+      font-size: 0.9rem;
+      margin: 40px 0 24px;
+    }  
+    .description-p {
+      font-size: 0.8rem;
+    }  
+    .setting,.purpose,.color {
+      margin-top: 40px;
+    }  
+    .setting h4,.purpose h4,.color h4 {
+      font-size: 0.9rem;
+    }  
+    .setting p,.purpose p,.color p,.site {
+      font-size: 0.8rem;
+    }
+    .site {
+      margin-top: 24px;
+    }  
+    .color h6 {
+      font-size: 0.8rem;
+      line-height: 2;
+    }
+    .site-image {
+      font-size: 1rem;
+    }    
+    .time {
+      padding: 64px 0;
+      width: 90%;
+    }
+    .time h5 {
+      font-size: 0.9rem;
+    }
+    
+}

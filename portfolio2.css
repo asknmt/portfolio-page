@@ -1,0 +1,35 @@
+@media (max-width: 1050px){
+ /*トップ*/
+.top h1 {
+  margin: 160px 0 64px 0;
+}  
+/*作品概要*/
+.top-description h2,.details h2 {
+  font-size: 1.5rem;
+}  
+.top-description h3 {
+  font-size: 1.3rem;
+  margin: 40px 0 40px 0;
+}  
+.description-p {
+  font-size: 1.1rem;
+}  
+.setting h4,.purpose h4,.color h4 {
+  font-size: 1.2rem;
+}  
+.setting p,.purpose p,.color p,.site{
+  font-size: 1rem;
+}
+.color h6 {
+  font-size: 1rem;
+}
+.site-image {
+  font-size: 1.1rem;
+}
+.time {
+padding: 80px 0;
+}
+.time h5 {
+font-size: 1.3rem;
+}
+}
