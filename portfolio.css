@@ -113,12 +113,17 @@ header li:hover {
   margin-top: 16px;
   font-weight: normal;
 }
-.site-image {
-  font-size: 1.5rem;
-  border-bottom: solid 3px #dae4ff;
-  padding-bottom: 4px;
+.site-concept {
+  font-size: 1.3rem;
+  margin-top: 56px;
+  font-weight: normal;
+}
+.concept {
+  border-bottom: solid 5px #dae4ff;
+  padding-bottom: 2px;
   display: inline;
 }
+
 .time {
   padding: 96px 0;
   width: 80%;
