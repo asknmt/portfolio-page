@@ -20,12 +20,12 @@
 .setting p,.purpose p,.color p,.site{
   font-size: 1rem;
 }
-.color h6 {
-  font-size: 1rem;
-}
-.site-image {
+.site-concept {
   font-size: 1.1rem;
-}
+  margin-top: 40px;
+  line-height: 1.2;
+}  
+
 .time {
 padding: 80px 0;
 }
