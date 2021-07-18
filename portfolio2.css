@@ -1,6 +1,7 @@
 @media (max-width: 1050px){
  /*トップ*/
 .top h1 {
+  font-size: 1.8rem;
   margin: 160px 0 64px 0;
 }  
 /*作品概要*/
